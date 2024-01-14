@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/59.0.0.15.313;FBBV/20097171;FBDM/{density=1.0,width=1024,height=552};FBLC/en_US;FBCR/;FBMF/archos;FBBD/archos;FBPN/com.facebook.katana;FBDV/Archos 101c Neon;FBSV/4.4.2;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/349.0.0.39.470;FBBV/344633543;FBDM/{density=2.25,width=1600,height=2452};FBLC/zh_HK;FBRV/0;FBCR/csl.;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-T725C;FBSV/11;FBOP/1;FBCA/arm64-v8a:;]
