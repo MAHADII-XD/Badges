@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/66.0.0.0.85;FBBV/23262261;FBDM/{density=1.5,width=480,height=854};FBLC/en_US;FBCR/MTN Cameroon;FBMF/Royal;FBBD/Royal;FBPN/com.facebook.katana;FBDV/Royal R2;FBSV/5.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/354.0.0.22.110;FBBV/350972604;FBDM/{density=3.0,width=1080,height=2076};FBLC/ru_RU;FBRV/352511217;FBCR/Vodafone;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A750FN;FBSV/10;FBOP/19;FBCA/arm64-v8a:;]
