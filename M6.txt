@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/66.0.0.0.85;FBBV/23262261;FBDM/{density=1.5,width=480,height=854};FBLC/en_US;FBCR/MTN Cameroon;FBMF/Royal;FBBD/Royal;FBPN/com.facebook.katana;FBDV/Royal R2;FBSV/5.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+[FBAN/Orca-Android;FBAV/221.1.0.15.157;FBPN/com.facebook.orca;FBLC/en_US;FBBV/160677542;FBCR/Ooredoo;FBMF/8.0.0;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1020,height=2040};FB_FW/;]
