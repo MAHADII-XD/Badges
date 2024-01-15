@@ -1,1 +1,1 @@
-[FBAN/MessengerLite;FBAV/312.0.0.8.106;FBPN/com.facebook.mlite;FBLC/in_ID;FBBV/431836095;FBCR/Airtel;FBMF/KFTT;FBBD/KFTT;FBDV/KFTT;FBSV/4.0.3;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.5,width=1280,height=800};]
+[FBAN/FB4A;FBAV/269.0.0.50.127;FBBV/212783075;FBDM/{density=4.0,width=1440,height=2368};FBLC/en_US;FBRV/0;FBCR/Verizon ;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/Moto Z (2);FBSV/9;FBOP/1;FBCA/arm64-v8a:;]
