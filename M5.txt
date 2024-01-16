@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/446.0.0.28.352;FBBV/448411340;FBDM/{density=1.5,width=480,height=854};FBLC/en_US;FBCR/Vodafone idea;FBMF/HUAWEI;FBBD/HUAWEI;FBPN/com.facebook.katana;FBDV/G510-0100;FBSV/4.4.2;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/446.0.0.27.352;FBBV/554350359;FBDM/{density=2.0,width=720,height=1460};FBLC/en_US;FBRV/0;FBCR/Airtel;FBMF/INFINIX;FBBD; /Infinix;FBPN/com.facebook.katana;FBDV/Infinix X669C;FBSV/12;FBOP/1;FBCA/arm64-v8a:;]
