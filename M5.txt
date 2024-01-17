@@ -1,1 +1,1 @@
-FBAN/FB4A;FBAV/199.0.0.32.118;FBBV/265171049;FBDM/{density=2.75,width=1080,height=2130};FBLC/en_GB;FBRV/172446695;FBCR/Vodafone idea;FBMF/Xiaomi;FBBD/xiaomi;FBPN/com.facebook.katana;FBDV/Redmi Note 8;FBSV/10;FBOP/19;FBCA/arm64-v8a:;]
+[FBAN/MessengerLite;FBAV/312.0.0.8.106;FBPN/com.facebook.mlite;FBLC/in_ID;FBBV/431836095;FBCR/AXIS;FBMF/vivo;FBBD/vivo;FBDV/vivo Y20;FBSV/10;FBCA/arm64-v8a:null;FBDM/{density=2.29375,width=1080,height=2145};]
