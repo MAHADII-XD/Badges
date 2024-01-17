@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/446.0.0.27.352;FBBV/554350360;FBDM/{density=2.75,width=1080,height=2130};FBLC/en_GB;FBRV/0;FBCR/Airtel;FBMF/Xiaomi;FBBD/xiaomi;FBPN/com.facebook.katana;FBDV/Redmi Note 8;FBSV/11;FBOP/1;FBCA/arm64-v8a:;]
+[FBAN/Orca-Android;FBAV/439.0.0.29.119;FBPN/com.facebook.orca;FBLC/en_US;FBBV/548242957;FBCR/Airtel;FBMF/LG Optimus L4 II E440;FBBD/LG Optimus L4 II E440;FBDV/LG-E440;FBSV/11;FBCA/arm64-v8a:null;FBDM/{density=1.0,width=320,height=480};FB_FW/1;]
