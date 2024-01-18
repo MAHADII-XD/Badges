@@ -1,1 +1,1 @@
-[FBAN/Orca-Android;FBAV/410.0.0.17.85;FBPN/com.facebook.orca;FBLC/en_US;FBBV/477787477;FBCR/Vi India;FBMF/vivo;FBBD/vivo;FBDV/vivo 1906;FBSV/11;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1490};FB_FW/1;]
+[FBAN/FB4A;FBAV/61.0.0.15.69;FBBV/20748051;FBDM/{density=1.5,width=480,height=800};FBLC/en_US;FBCR/VodaPhone IN;FBMF/Panasonic;FBBD/Panasonic;FBPN/com.facebook.katana;FBDV/Panasonic T40;FBSV/4.4.2;nullFBCA/armeabi-v7a:armeabi;]
