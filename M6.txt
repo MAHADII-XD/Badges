@@ -1,1 +1,1 @@
-[FBAN/MessengerLiteForiOS;FBAV/240.1.0.68.118;FBBV/209526191;FBDV/iPhone9,3;FBMD/iPhone;FBSN/iOS;FBSV/13.3.1;FBSS/2;FBCR/;FBID/phone;FBLC/en_US;FBOP/0]
+[FBAN/FB4A;FBAV/71.0.0.17.73;FBBV/27002216;FBDM/{density=4.0,width=2560,height=1440};FBLC/en_US;FB_FW/2;FBCR/3;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-N910F;FBSV/5.1.1;FBOP/19;FBCA/armeabi-v7a:armeabi;]
