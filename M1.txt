@@ -1,1 +1,1 @@
-[FBAN/FBW;FBAV/93.0.0.64.0;FBBV/62624619;FBDV/WindowsDevice;FBMD/Inspiron 3650;FBSN/Windows;FBSV/10.0.15063.540;FBSS/1;FBCR/Airtel;FBID/desktop;FBLC/en_US;FBOP/45;FBRV/0]
+[FBAN/FB4A;FBAV/59.0.0.0.267;FBBV/19599763;FBDM/{density=2.0,width=720,height=1280};FBLC/es_ES;FBCR/Xfera Moviles SA;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.katana;FBDV/HM NOTE 1S;FBSV/4.4.4;nullFBCA/armeabi-v7a:armeabi;]
