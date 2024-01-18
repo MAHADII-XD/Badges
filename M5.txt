@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/445.0.0.34.118;FBBV/527644733;FBDM/{density=3.0,width=2020,height=1080};FBLC/en_GB;FBRV/529308758;FB_FW/2;FBCR/;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/vivo 1938;FBSV/11;FBOP/1;FBCA/arm64-v8a:;]
+[FBAN/Orca-Android;FBAV/248.0.0.7.127;FBPN/com.facebook.orca;FBLC/en_GB;FBBV/194293860;FBCR/Airtel;FBMF/INFINIX MOBILITY LIMITED;FBBD/Infinix;FBDV/Infinix X6816;FBSV/8.0;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1193};FB_FW/1;]
